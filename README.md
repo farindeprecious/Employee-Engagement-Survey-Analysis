@@ -36,6 +36,15 @@ However, to make analysis easier, I:
 
 ---
 
+## Pictorial representation of my dashboard
+
+
+
+
+<img width="743" height="542" alt="Employee survey dashboard" src="https://github.com/user-attachments/assets/f33876c0-92ef-44ac-93fe-90f3a73a5bb3" />
+
+
+---
 ## Analysis & Insights
 
 ### **Question 1:**  
