@@ -1,7 +1,18 @@
 # Employee-Engagement-Survey-Analysis
 This project explores what employees value most, identifies areas of low engagement, and provides data-driven recommendations to improve satisfaction and workplace culture.
+## Table of Content
+- [Project Overview](#project-overview)
+- [Dataset Summary](#dataset-summary)
+- [Tools Used](#tools-used)
+- [Data Preparation](#data-preparation)
+- [Visual Representation of the Dashboard](#visual-representation-of-the-dashboard)
+- [Analysis and Insights](#analysis-and-insights)
+- [Additional Insights](#additional-insights)
+- [Dashboard Features](#dashboard-features)
+- [Key Takeaways](#key-takeaways)
+- [Recommendations](#recommendations)
 
-## 🧭 Project Overview
+## Project Overview
 This project explores real employee engagement survey responses collected by **Pierce County, WA**.  
 The goal was to uncover what employees value most, identify key areas of dissatisfaction, and recommend data-driven strategies to improve workplace satisfaction.
 
@@ -36,7 +47,7 @@ However, to make analysis easier, I:
 
 ---
 
-## Pictorial representation of my dashboard
+## Visual Representation of the dashboard
 
 
 
@@ -45,7 +56,7 @@ However, to make analysis easier, I:
 
 
 ---
-## Analysis & Insights
+## Analysis and Insights
 
 ### **Question 1:**  
 *Which survey questions did respondents agree or disagree with most?*
@@ -120,14 +131,14 @@ All levels of employees have a clear understanding of their roles but face chall
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 - Employees **understand their roles** but lack **recognition and workplace connection**.  
 - **Directors** and **Managers** are highly engaged, while **Staff** show the largest satisfaction gap.  
 - Building a culture of recognition, mentorship, and collaboration can significantly improve morale and retention.
 
 ---
 
-## 🚀 Recommendations
+## Recommendations
 - Launch recognition programs to celebrate good work.
 - Encourage cross-department collaboration and social activities.
 - Conduct regular feedback sessions and team check-ins.
